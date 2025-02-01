@@ -1,8 +1,7 @@
 # About DeepFace_TheGame
 
 
-DeepFace_TheGame это игра, где нужно показывать нужные эмоции, чтобы выйграть
- 4 раунда, 4 эмоции
+DeepFace_TheGame это игра, где нужно показывать нужные эмоции, чтобы выиграть, всего в игре 4 раунда и 4 эмоции
 
  ![image](https://github.com/jonycat/DeepFace_TheGame/blob/main/Example.png)
 
