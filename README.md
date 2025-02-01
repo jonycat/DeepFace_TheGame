@@ -1,10 +1,13 @@
 # DeepFace_TheGame
 
-
    # About
  Игра, где нужно показывать нужные эмоции, чтобы выйграть
  4 раунда, 4 эмоции
- 
+
+
+ Интерфейс
+ ![image](https://github.com/jonycat/DeepFace_TheGame/blob/main/Example.png)
+
 
    # Installation
    Копируем репозиторий к себе
